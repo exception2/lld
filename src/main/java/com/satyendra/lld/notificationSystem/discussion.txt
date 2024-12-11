@@ -1,0 +1,13 @@
+
+
+Requirements:
+1. Ability to send notification
+2. Multiple channel to send notification
+3. Support multiple types of message
+
+
+Entity
+1. Notification
+2. Notification Handler
+3. Notification Type
+4. Subscription
